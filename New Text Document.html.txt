@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>كريم أحمد وفاء</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5f5;
+            color: #333;
+        }
+
+        header {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 20px 0;
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+
+        section {
+            margin: 20px;
+            padding: 20px;
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        section h2 {
+            color: #444;
+            border-bottom: 2px solid #ddd;
+            padding-bottom: 10px;
+            margin-bottom: 20px;
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        ul li {
+            margin: 10px 0;
+        }
+
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            margin-top: 20px;
+        }
+
+        a {
+            color: #007BFF;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>كريم أحمد وفاء</h1>
+        <p>مرحبًا بك في صفحتي الشخصية!</p>
+    </header>
+
+    <section>
+        <h2>من أنا</h2>
+        <p>أنا كريم أحمد وفاء، أهوى الرسم والكتابة وتعلم البرمجة. أسعى لحفظ القرآن الكريم والتطور في مجالات متعددة.</p>
+    </section>
+
+    <section>
+        <h2>هواياتي</h2>
+        <ul>
+            <li>الرسم</li>
+            <li>الكتابة</li>
+            <li>تعلم البرمجة</li>
+            <li>حفظ القرآن الكريم</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>تواصل معي</h2>
+        <p>يمكنك التواصل معي عبر:</p>
+        <ul>
+            <li>البريد الإلكتروني: <a href="mailto:karim123654@gmail.com">karim123654@gmail.com</a></li>
+            <li>رقم الهاتف: <a href="tel:+201063943848">01063943848</a></li>
+            <li>فيسبوك: <a href="https://facebook.com/كريم-أحمد-وفاء" target="_blank">كريم أحمد وفاء</a></li>
+            <li>إكس (تويتر سابقًا): <a href="https://twitter.com/كريم-أحمد-وفاء" target="_blank">كريم أحمد وفاء</a></li>
+            <li>تليجرام: <a href="https://t.me/كريم-أحمد-وفاء" target="_blank">كريم أحمد وفاء</a></li>
+            <li>إنستجرام: <a href="https://instagram.com/كريم-أحمد-وفاء" target="_blank">كريم أحمد وفاء</a></li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 كريم أحمد وفاء. جميع الحقوق محفوظة.</p>
+    </footer>
+</body>
+</html>
